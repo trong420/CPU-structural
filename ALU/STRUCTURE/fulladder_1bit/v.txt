@@ -1,0 +1,32 @@
+// Code your design here
+module fulladder (in1, in2, cin, cout, s);
+  input in1, in2, cin;
+  output s, cout;
+  wire x1, x2, x3;
+  
+  xorgate n1 (in1, in2, x1);
+  andgate n2 (in1, in2, x2);
+  xorgate n3 (x1, cin, s);
+  andgate n4 (x1, cin, x3);
+  orgate n5 (x2, x3, cout);
+
+endmodule
+
+module andgate (a, b, y);
+  input a, b;
+  output y;
+  assign y = (a&b);
+endmodule
+
+module orgate (a, b, y);
+  input a, b;
+  output y;
+  assign y = a|b;
+endmodule
+
+module xorgate (a, b, y);
+  input a, b;
+  output y;
+  assign y = a^b;
+endmodule
+
