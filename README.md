@@ -42,6 +42,10 @@ Schematic
 
 Result
 
+![image](https://github.com/trong420/CPU-structural/assets/90754954/5e8662fa-b410-4a4c-91e5-a5ca17a19194)
+
+
+
 - ALU:
 
 Require
@@ -69,6 +73,7 @@ Schematic
 
 Result
 
+![image](https://github.com/trong420/CPU-structural/assets/90754954/4d8334d6-7510-4d9a-b65b-a7aebad684b1)
 
 
 **3. Design Vision Lab** 
