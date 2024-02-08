@@ -5,19 +5,26 @@
 </div>
 
 
-**1. k** 
+**1. Structural Blocks** 
 
-- l
+- Counter:
 
+- Register:
 
+- Multiplexer:
 
+- ALU:
 
-**2. k** 
+*The functionality of the control unit is described in RTL code*
 
-**3. k** 
+**2. Simulation** 
 
-**4. k** 
+**3. Design Vision Lab** 
 
-- EDA Playground: [CPU](https://edaplayground.com/x/8r2a)
+- 
+
+---
+
+EDA Playground link: [CPU](https://edaplayground.com/x/8r2a)
 
 
