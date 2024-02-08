@@ -7,7 +7,7 @@
 
 **1. k** 
 
-- Change to the lab2_dp directory, invoke IC Compiler and start the GUI:
+- l
 
 
 
@@ -17,5 +17,7 @@
 **3. k** 
 
 **4. k** 
+
+- EDA Playground: [CPU](https://edaplayground.com/x/8r2a)
 
 
