@@ -26,21 +26,50 @@ Result
 
 ![wave](https://github.com/trong420/CPU-structural/assets/90754954/a1e1b264-570e-4694-9af4-ae34e5f26695)
 
-- Multiplexer: create mux with 16 bit input
+- Multiplexer: 
+
+Require
+
+
 
 ![require](https://github.com/trong420/CPU-structural/assets/90754954/46701d9c-0322-4114-a6e4-42f441ed219f)
 
+Schematic
+
+
+
+![schematic](https://github.com/trong420/CPU-structural/assets/90754954/0a249ce2-c57c-42c9-a2d1-e322c16d1734)
 
 Result
 
 - ALU:
 
+Require
+
+![require](https://github.com/trong420/CPU-structural/assets/90754954/3e20f5e9-f2b5-4385-8bd6-24c037fb27b1)
+
+
+Schematic
+
+![schematic](https://github.com/trong420/CPU-structural/assets/90754954/188a5dec-88b9-414b-9b47-4b391fa3711d)
+
 
 Result
+
+![wave_official](https://github.com/trong420/CPU-structural/assets/90754954/66ef1cca-1d93-43a2-a34b-3dbdd006ab28)
+
 
 *The functionality of the control unit is described in RTL code*
 
 **2. Simulation of CPU** 
+
+Schematic
+
+![cpu](https://github.com/trong420/CPU-structural/assets/90754954/05391e5c-6a53-4ab7-9c11-8128d699c092)
+
+Result
+
+
 
 **3. Design Vision Lab** 
 
