@@ -76,9 +76,9 @@ Result
 ![image](https://github.com/trong420/CPU-structural/assets/90754954/4d8334d6-7510-4d9a-b65b-a7aebad684b1)
 
 
-**3. Design Vision Lab** 
+**3. Design Compiler NXT Workshop** 
 
-- 
+- Report LAB1: [Design Setup](https://github.com/trong420/CPU-structural/blob/main/lab1/LAB1_report.pdf)
 
 ---
 
